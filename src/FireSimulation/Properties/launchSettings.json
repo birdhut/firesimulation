@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FireSimulation": {
+      "commandName": "Project",
+      "commandLineArgs": "enhanced"
+    }
+  }
+}
